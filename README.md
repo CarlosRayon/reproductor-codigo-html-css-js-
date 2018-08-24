@@ -1,2 +1,3 @@
 # reproductor-codigo-html-css-js-
-Reproductor de código html-css-javascript sencillo creado usando SASS y JQuery.
+Reproductor sencillo y muy basico de código html-css-javascript.
+Se ha creado usando SASS y JQuery.
